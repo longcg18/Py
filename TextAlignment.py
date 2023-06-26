@@ -1,0 +1,4 @@
+thickness = int(input())
+
+#HHHHHHHHHHHHHHHHHHHHHHHHH
+
